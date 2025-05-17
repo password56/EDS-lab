@@ -5,9 +5,8 @@
 
 - 🎥 **Presklet Video**   https://preskilet.com/202401090113@mitaoe.ac.in  
 
-- 📜 **CISCO Certificate** https://drive.google.com/file/d/1uQn1VWhJz2kKMa7zHKHnDAthL0IPRAlW/view?usp=sharing
--                          https://drive.google.com/file/d/1tOrRgP1N6wVQNaFcCjvcvS9a1g7aIXCW/view?usp=sharing 
-  
+- 📜 **CISCO Certificate** https://drive.google.com/file/d/1uQn1VWhJz2kKMa7zHKHnDAthL0IPRAlW/view?usp=sharing https://drive.google.com/file/d/1XffhzlYpRgdgDlloiALYXcChlZbVYK0Z/view?usp=sharing
+-                         
 - 🧪 **EDS Laboratory Assignments**  
   - 
 
